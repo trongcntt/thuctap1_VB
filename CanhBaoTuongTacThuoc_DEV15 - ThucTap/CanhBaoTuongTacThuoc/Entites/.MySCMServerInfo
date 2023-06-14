@@ -1,0 +1,9 @@
+SCMBranch=NANOSOFT_SOURCE
+SCMRepository=NANOSOFT_SOURCE/Code các thư viện/CanhBaoTuongTacThuoc_DEV15/CanhBaoTuongTacThuoc/Entites
+DMCanhBaoDichVuEntity.vb;1576060867;1;1685506462;
+DMCanhBaoGioiTinhEntity.vb;313520976;1;1685506462;
+DMCanhBaoThuocEntity.vb;937874614;1;1685506462;
+DMCanhBaoTuoiEntity.vb;1908402930;1;1685506462;
+DMTuongTacHoatChatEntity.vb;433589804;1;1685506462;
+ReturnSQLEntity.vb;3939430337;1;1685506462;
+DMTuongTacThuocEntity.vb;1100296478;3;1685585475;

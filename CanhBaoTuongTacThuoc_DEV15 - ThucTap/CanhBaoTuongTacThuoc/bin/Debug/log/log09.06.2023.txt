@@ -1,0 +1,37 @@
+<Log Entry> : 9:00:19 SA 09 Tháng Sáu 2023
+<Position>  : DMXaPhuong_insert
+<Message>   : Violation of PRIMARY KEY constraint 'PK_DMXaPhuong'. Cannot insert duplicate key in object 'dbo.DMXaPhuong'. The duplicate key value is (Xa03).
+The statement has been terminated.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:14:36 SA 09 Tháng Sáu 2023
+<Position>  : DMTinhThanh_insert
+<Message>   : Procedure or function 'DMTinhThanh_insert' expects parameter '@MaTT', which was not supplied.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:14:54 SA 09 Tháng Sáu 2023
+<Position>  : DMTinhThanh_update
+<Message>   : Procedure or function 'DMTinhThanh_update' expects parameter '@MaTT', which was not supplied.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:18:28 SA 09 Tháng Sáu 2023
+<Position>  : DMTinhThanh_update
+<Message>   : Procedure or function 'DMTinhThanh_update' expects parameter '@MaTT', which was not supplied.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:02:31 CH 09 Tháng Sáu 2023
+<Position>  : laydataByid
+<Message>   : Could not find stored procedure 'laydataByid'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:03:10 CH 09 Tháng Sáu 2023
+<Position>  : laydataByid
+<Message>   : Could not find stored procedure 'laydataByid'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:03:25 CH 09 Tháng Sáu 2023
+<Position>  : laydataByid
+<Message>   : Could not find stored procedure 'laydataByid'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:04:12 CH 09 Tháng Sáu 2023
+<Position>  : laydataByid
+<Message>   : Could not find stored procedure 'laydataByid'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 4:35:47 CH 09 Tháng Sáu 2023
+<Position>  : laydataByid
+<Message>   : Could not find stored procedure 'laydataByid'.
+--------------------------------------------------------------------------------------

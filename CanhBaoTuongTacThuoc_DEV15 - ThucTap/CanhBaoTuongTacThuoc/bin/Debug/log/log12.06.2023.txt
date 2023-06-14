@@ -1,0 +1,4 @@
+<Log Entry> : 8:19:51 SA 12 Tháng Sáu 2023
+<Position>  : laydataByid
+<Message>   : Could not find stored procedure 'laydataByid'.
+--------------------------------------------------------------------------------------

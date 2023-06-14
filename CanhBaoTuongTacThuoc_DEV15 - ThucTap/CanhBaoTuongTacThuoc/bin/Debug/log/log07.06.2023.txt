@@ -1,0 +1,16 @@
+<Log Entry> : 9:13:37 SA 07 Tháng Sáu 2023
+<Position>  : laydataGiaoVien
+<Message>   : Could not find stored procedure 'laydataGiaoVien'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:13:37 SA 07 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:14:47 SA 07 Tháng Sáu 2023
+<Position>  : laydataGiaoVien
+<Message>   : Could not find stored procedure 'laydataGiaoVien'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:14:47 SA 07 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------

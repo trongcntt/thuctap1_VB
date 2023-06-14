@@ -1,0 +1,112 @@
+<Log Entry> : 2:34:20 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:34:20 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:34:56 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:34:57 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:35:23 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:35:23 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:41:42 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:41:42 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:49:31 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:49:31 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:51:01 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:51:01 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:53:01 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:53:01 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:53:33 PM 02/04/2021
+<Position>  : spDMBenhSelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:53:34 PM 02/04/2021
+<Position>  : spDMDichVuChiTiet_SelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:54:21 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:54:21 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:55:49 PM 02/04/2021
+<Position>  : spDMBenhSelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:55:49 PM 02/04/2021
+<Position>  : spDMDichVuChiTiet_SelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:57:24 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:57:24 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:57:37 PM 02/04/2021
+<Position>  : spDMBenhSelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:57:37 PM 02/04/2021
+<Position>  : spDMDichVuChiTiet_SelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:00:02 PM 02/04/2021
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:00:02 PM 02/04/2021
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:00:12 PM 02/04/2021
+<Position>  : spDMBenhSelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 3:00:12 PM 02/04/2021
+<Position>  : spDMDichVuChiTiet_SelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------

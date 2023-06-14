@@ -1,0 +1,16 @@
+<Log Entry> : 8:47:40 CH 25 Tháng Ba 2020
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:47:40 CH 25 Tháng Ba 2020
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:47:44 CH 25 Tháng Ba 2020
+<Position>  : spDMBenhSelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:47:44 CH 25 Tháng Ba 2020
+<Position>  : spDMVatTuSelectAll
+<Message>   : Could not load file or assembly 'Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+--------------------------------------------------------------------------------------

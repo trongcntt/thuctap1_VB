@@ -1,0 +1,312 @@
+<Log Entry> : 8:22:24 SA 01 Tháng Sáu 2023
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:23:12 SA 01 Tháng Sáu 2023
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:23:17 SA 01 Tháng Sáu 2023
+<Position>  : spDMDVKTTuongTac_SelectAll
+<Message>   : The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Data.Database' threw an exception.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:24:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:24:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:24:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:24:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:25:38 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:25:38 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:25:38 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:25:38 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:26:55 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:26:55 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:26:55 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:26:55 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:27:46 SA 01 Tháng Sáu 2023
+<Position>  : spDMThuocTuongTac_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:27:46 SA 01 Tháng Sáu 2023
+<Position>  : spDMDVKTTuongTac_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:27:46 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:27:46 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoThuoc_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:27:46 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:27:46 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:27:46 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:34:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:34:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:34:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:34:34 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:45:13 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:45:13 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:45:13 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:45:13 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:45:38 SA 01 Tháng Sáu 2023
+<Position>  : spDM_DVKTTuongTac_DeleteByID
+<Message>   : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The network connection was aborted by the local system.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:45:40 SA 01 Tháng Sáu 2023
+<Position>  : spDMDVKTTuongTac_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:46:01 SA 01 Tháng Sáu 2023
+<Position>  : spDMDichVuChiTiet_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:46:01 SA 01 Tháng Sáu 2023
+<Position>  : spDMDichVuChiTiet_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.)
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:46:43 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:46:43 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:46:43 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:46:43 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:49:12 SA 01 Tháng Sáu 2023
+<Position>  : spDM_DVKTTuongTac_SelectByID
+<Message>   : Column 'MaVatTuTuongTac' does not belong to table Table.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:53:54 SA 01 Tháng Sáu 2023
+<Position>  : spDM_DVKTTuongTac_SelectByID
+<Message>   : Column 'MaVatTuTuongTac' does not belong to table Table.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:56:42 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:56:42 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:56:43 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:56:43 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:56:55 SA 01 Tháng Sáu 2023
+<Position>  : spDMNhomVatTuSelectAll
+<Message>   : Could not find stored procedure 'spDMNhomVatTuSelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:57:10 SA 01 Tháng Sáu 2023
+<Position>  : spDMNhomVatTuSelectAll
+<Message>   : Could not find stored procedure 'spDMNhomVatTuSelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:58:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:58:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:58:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:58:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:59:05 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:59:05 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:59:05 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 8:59:05 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:00:15 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:00:15 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:00:15 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:00:15 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:05:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:05:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:05:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:05:47 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:06:45 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:06:45 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:06:45 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:06:45 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:11:18 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:11:18 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:11:18 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:11:18 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:17:14 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:17:14 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:17:14 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:17:14 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:20:35 SA 01 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:20:35 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:20:35 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:20:35 SA 01 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------

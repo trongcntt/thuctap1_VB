@@ -1,0 +1,455 @@
+<Log Entry> : 10:42:33 SA 08 Tháng Sáu 2023
+<Position>  : DMTinhThanh_SelectAll
+<Message>   : Could not find stored procedure 'DMTinhThanh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 10:48:40 SA 08 Tháng Sáu 2023
+<Position>  : DMTinhThanh_SelectAll
+<Message>   : Could not find stored procedure 'DMTinhThanh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 10:50:29 SA 08 Tháng Sáu 2023
+<Position>  : DMTinhThanh_SelectAll
+<Message>   : Could not find stored procedure 'DMTinhThanh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:18:17 SA 08 Tháng Sáu 2023
+<Position>  : DMTinhThanh_insert
+<Message>   : Procedure or function 'DMTinhThanh_insert' expects parameter '@TenTT', which was not supplied.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:18:18 SA 08 Tháng Sáu 2023
+<Position>  : DMTinhThanh_SelectAll
+<Message>   : Could not find stored procedure 'DMTinhThanh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:18:51 SA 08 Tháng Sáu 2023
+<Position>  : DMTinhThanh_SelectAll
+<Message>   : Could not find stored procedure 'DMTinhThanh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:22:39 SA 08 Tháng Sáu 2023
+<Position>  : DMTinhThanh_SelectAll
+<Message>   : Could not find stored procedure 'DMTinhThanh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:53:27 SA 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_insert
+<Message>   : Cannot insert the value NULL into column 'MaQuanHuyen', table 'NanoThucTap.dbo.DMQuanHuyen'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:56:41 SA 08 Tháng Sáu 2023
+<Position>  : laydataGiaoVien
+<Message>   : Could not find stored procedure 'laydataGiaoVien'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:56:41 SA 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:56:41 SA 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:56:42 SA 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:56:42 SA 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:56:57 SA 08 Tháng Sáu 2023
+<Position>  : Themgiaovien
+<Message>   : Could not find stored procedure 'Themgiaovien'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:56:58 SA 08 Tháng Sáu 2023
+<Position>  : laydataGiaoVien
+<Message>   : Could not find stored procedure 'laydataGiaoVien'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:58:18 SA 08 Tháng Sáu 2023
+<Position>  : laydataGiaoVien
+<Message>   : Could not find stored procedure 'laydataGiaoVien'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:58:18 SA 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:58:18 SA 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:58:18 SA 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 11:58:18 SA 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:39:53 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:39:53 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:39:53 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:39:54 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:40:11 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:40:11 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:40:11 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:40:11 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:42:20 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:42:20 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:42:20 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:42:20 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:08 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:08 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:08 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:08 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:41 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:41 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:41 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:43:41 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:44:00 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:44:00 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:44:00 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:44:00 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:47:17 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:47:17 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:47:17 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:47:17 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:49:03 CH 08 Tháng Sáu 2023
+<Position>  : laydsLopHoc
+<Message>   : Could not find stored procedure 'laydsLopHoc'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:49:03 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:49:03 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:49:03 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:50:49 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:50:49 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:50:49 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:52:09 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Could not find stored procedure 'SelectSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:52:09 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:52:09 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:55:24 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:55:24 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:55:24 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:56:12 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:56:12 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:56:12 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:56:35 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:56:52 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:56:52 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:56:52 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:58:53 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:58:53 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:58:53 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:01:48 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:01:48 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:01:48 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:02:03 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:02:03 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:02:03 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:03:11 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:03:11 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:03:11 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:11:33 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:11:33 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:11:33 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:14:44 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:14:44 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:14:44 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:15:23 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:15:23 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:15:24 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:24:36 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:24:36 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:24:37 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:24:50 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:24:50 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:24:50 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:25:27 CH 08 Tháng Sáu 2023
+<Position>  : SelectSV
+<Message>   : Invalid object name 'DMS'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:25:27 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:25:27 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:27:21 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:27:21 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:27:38 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:27:39 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:28:12 CH 08 Tháng Sáu 2023
+<Position>  : InsertSV
+<Message>   : Could not find stored procedure 'InsertSV'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:28:22 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:28:22 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:31:34 CH 08 Tháng Sáu 2023
+<Position>  : DMNguoiDung_selectAll
+<Message>   : Could not find stored procedure 'DMNguoiDung_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:31:34 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:40:00 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:41:22 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Could not find stored procedure 'DMQuanHuyen_selectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:51:54 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Column 'MaQuanHuyen_BH' does not belong to table Table.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:53:13 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_selectAll
+<Message>   : Column 'MaQuanHuyen_BH' does not belong to table Table.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:54:19 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_insert
+<Message>   : Cannot insert the value NULL into column 'MaQuanHuyen', table 'NanoThucTap.dbo.DMQuanHuyen'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+--------------------------------------------------------------------------------------
+<Log Entry> : 2:56:11 CH 08 Tháng Sáu 2023
+<Position>  : DMQuanHuyen_insert
+<Message>   : Cannot insert the value NULL into column 'MaQuanHuyen', table 'NanoThucTap.dbo.DMQuanHuyen'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+--------------------------------------------------------------------------------------

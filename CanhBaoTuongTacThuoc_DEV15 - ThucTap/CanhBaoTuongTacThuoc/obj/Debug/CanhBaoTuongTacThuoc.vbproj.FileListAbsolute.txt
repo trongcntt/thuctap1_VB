@@ -1,0 +1,583 @@
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.pdb
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCanhBaoTuongTacThuoc.resources
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoThuoc.resources
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.Resources.resources
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MessageBox.resources
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.GenerateResource.Cache
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.pdb
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacThuoc.resources
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll.licenses
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll
+E:\NANOSOFT\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbprojResolveAssemblyReference.cache
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.pdb
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCanhBaoTuongTacThuoc.resources
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoDichVu.resources
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoThuoc.resources
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacThuoc.resources
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.Resources.resources
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MessageBox.resources
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.GenerateResource.Cache
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.pdb
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.Unity.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll.licenses
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoGioiTinh.resources
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbprojResolveAssemblyReference.cache
+E:\TuongTacThuoc\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoTuoi.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.pdb
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCanhBaoTuongTacThuoc.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoDichVu.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoGioiTinh.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoThuoc.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoTuoi.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacHoatChat.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacThuoc.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.Resources.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MessageBox.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.GenerateResource.cache
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll.licenses
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CoreCompileInputs.cache
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.pdb
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ThuVien.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\Newtonsoft.Json.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.AssemblyReference.cache
+D:\CODE_NANO\CanhBaoTuongTacThuoc\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CopyComplete
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.pdb
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCanhBaoTuongTacThuoc.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoDichVu.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoGioiTinh.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoThuoc.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoTuoi.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacHoatChat.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacThuoc.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.Resources.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MessageBox.resources
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.GenerateResource.cache
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll.licenses
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CoreCompileInputs.cache
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CopyComplete
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.dll
+D:\CODE_NANO\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.pdb
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.pdb
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCanhBaoTuongTacThuoc.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoDichVu.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoGioiTinh.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoThuoc.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoTuoi.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacDVKT.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacHoatChat.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacThuoc.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.Resources.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MessageBox.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.GenerateResource.cache
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CoreCompileInputs.cache
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CopyComplete
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.pdb
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.AssemblyReference.cache
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.exe.licenses
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.exe
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.exe
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.exe
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.pdb
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.AssemblyReference.cache
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoDichVu.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoGioiTinh.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoThuoc.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMCanhBaoTuoi.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacDVKT.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacHoatChat.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmCapNhatDMTuongTacThuoc.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmQuanLySinhVien.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.Resources.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MessageBox.resources
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.GenerateResource.cache
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.exe.licenses
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CoreCompileInputs.cache
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CopyComplete
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.exe
+D:\Code\CanhBaoTuongTacThuoc_DEV15\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.pdb
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmGiaoVienn.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmKetQuaHocTap.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmLopHoc.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmMonHoc.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmNguoiDung.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmQuanHuyen.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmQuanLySinhVien.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmSinhVien.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmTinhThanh.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.frmXaPhuong.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MenuQLsv.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.Resources.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.MessageBox.resources
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.GenerateResource.cache
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.exe.licenses
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CoreCompileInputs.cache
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.exe
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.pdb
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Data.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.CopyComplete
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.exe
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.pdb
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\bin\Debug\CanhBaoTuongTacThuoc.exe.config
+D:\windowsform\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc_DEV15 - ThucTap\CanhBaoTuongTacThuoc\obj\Debug\CanhBaoTuongTacThuoc.vbproj.AssemblyReference.cache

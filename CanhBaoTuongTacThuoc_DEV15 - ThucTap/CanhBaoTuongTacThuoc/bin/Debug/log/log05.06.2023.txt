@@ -1,0 +1,64 @@
+<Log Entry> : 1:39:03 CH 05 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:39:03 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:39:03 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:39:03 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:41:13 CH 05 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:41:13 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:41:13 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:41:13 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:46:10 CH 05 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:46:10 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:46:10 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:46:10 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:48:09 CH 05 Tháng Sáu 2023
+<Position>  : spDMHoatChatTuongTac_SelectAll
+<Message>   : Could not find stored procedure 'spDMHoatChatTuongTac_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:48:09 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoDichVu_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoDichVu_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:48:09 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 1:48:09 CH 05 Tháng Sáu 2023
+<Position>  : spDMCanhBaoTuoi_SelectAll
+<Message>   : Could not find stored procedure 'spDMCanhBaoTuoi_SelectAll'.
+--------------------------------------------------------------------------------------
